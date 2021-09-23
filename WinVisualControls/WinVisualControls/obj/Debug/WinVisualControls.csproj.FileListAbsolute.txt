@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\bin\Debug\WinVisualControls.exe.config
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\bin\Debug\WinVisualControls.exe
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\bin\Debug\WinVisualControls.pdb
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.Form1.resources
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.Properties.Resources.resources
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.exe
+C:\Users\Diogo\source\repos\WinVisualControls\WinVisualControls\obj\Debug\WinVisualControls.pdb

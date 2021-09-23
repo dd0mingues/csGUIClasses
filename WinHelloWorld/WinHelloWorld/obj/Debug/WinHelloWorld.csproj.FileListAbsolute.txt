@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\bin\Debug\WinHelloWorld.exe.config
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\bin\Debug\WinHelloWorld.exe
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\bin\Debug\WinHelloWorld.pdb
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.Properties.Resources.resources
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.exe
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.pdb
+C:\Users\Diogo\source\repos\WinHelloWorld\WinHelloWorld\obj\Debug\WinHelloWorld.lstFirstList.resources

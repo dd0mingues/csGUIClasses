@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\winLogin\winLogin\bin\Debug\winLogin.exe.config
+C:\Users\Diogo\source\repos\winLogin\winLogin\bin\Debug\winLogin.exe
+C:\Users\Diogo\source\repos\winLogin\winLogin\bin\Debug\winLogin.pdb
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.exe
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.pdb
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.frmLogin.resources
+C:\Users\Diogo\source\repos\winLogin\winLogin\obj\Debug\winLogin.frmMain.resources
