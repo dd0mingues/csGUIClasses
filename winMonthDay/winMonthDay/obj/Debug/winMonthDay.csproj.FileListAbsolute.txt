@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\bin\Debug\winMonthDay.exe.config
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\bin\Debug\winMonthDay.exe
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\bin\Debug\winMonthDay.pdb
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.Form1.resources
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.exe
+C:\Users\Diogo\source\repos\winMonthDay\winMonthDay\obj\Debug\winMonthDay.pdb

@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\Arrows.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmArrows.resources
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\Arrows.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\Arrows.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Diogo\source\repos\winArrows\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
