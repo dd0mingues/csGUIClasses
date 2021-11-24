@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\bin\Debug\winCarLog.exe.config
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\bin\Debug\winCarLog.exe
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\bin\Debug\winCarLog.pdb
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.FrontPage.resources
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.Registry.resources
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.exe
+C:\Users\Diogo\source\repos\winCarLog\winCarLog\obj\Debug\winCarLog.pdb

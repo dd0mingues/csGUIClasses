@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\bin\Debug\winEnsuranceCalculator.exe.config
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\bin\Debug\winEnsuranceCalculator.exe
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\bin\Debug\winEnsuranceCalculator.pdb
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.Form1.resources
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.exe
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.pdb
+C:\Users\Diogo\source\repos\winEnsuranceCalculator\winEnsuranceCalculator\obj\Debug\winEnsuranceCalculator.csproj.AssemblyReference.cache

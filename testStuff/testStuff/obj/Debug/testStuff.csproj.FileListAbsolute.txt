@@ -1,0 +1,7 @@
+C:\Users\Diogo\source\repos\testStuff\testStuff\bin\Debug\testStuff.exe.config
+C:\Users\Diogo\source\repos\testStuff\testStuff\bin\Debug\testStuff.exe
+C:\Users\Diogo\source\repos\testStuff\testStuff\bin\Debug\testStuff.pdb
+C:\Users\Diogo\source\repos\testStuff\testStuff\obj\Debug\testStuff.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\testStuff\testStuff\obj\Debug\testStuff.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\testStuff\testStuff\obj\Debug\testStuff.exe
+C:\Users\Diogo\source\repos\testStuff\testStuff\obj\Debug\testStuff.pdb

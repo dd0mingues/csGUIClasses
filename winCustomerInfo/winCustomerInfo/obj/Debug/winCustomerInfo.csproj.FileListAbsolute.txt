@@ -1,0 +1,11 @@
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\bin\Debug\winCustomerInfo.exe.config
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\bin\Debug\winCustomerInfo.exe
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\bin\Debug\winCustomerInfo.pdb
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.exe
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.pdb
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.CustomerManager.resources
+C:\Users\Diogo\source\repos\winCustomerInfo\winCustomerInfo\obj\Debug\winCustomerInfo.ModeSelector.resources

@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\bin\Debug\winBrickWall.exe.config
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\bin\Debug\winBrickWall.exe
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\bin\Debug\winBrickWall.pdb
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.Form1.resources
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.exe
+C:\Users\Diogo\source\repos\winBrickWall\winBrickWall\obj\Debug\winBrickWall.pdb

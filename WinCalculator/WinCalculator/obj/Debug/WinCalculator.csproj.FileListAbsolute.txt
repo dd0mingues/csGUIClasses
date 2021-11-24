@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe.config
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\bin\Debug\WinCalculator.exe
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\bin\Debug\WinCalculator.pdb
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Form1.resources
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.Properties.Resources.resources
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.exe
+C:\Users\Diogo\source\repos\WinCalculator\WinCalculator\obj\Debug\WinCalculator.pdb

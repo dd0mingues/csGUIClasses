@@ -1,0 +1,39 @@
+﻿Question 1
+The TabIndex property of controls is used to
+A. set the number of controls on a form
+B. set the size of a tab for indenting text in a control
+C. preset the order in which controls receive focus
+D. set the number of tabs in a TextBox
+Answer is C
+
+Question 2
+Which is the active control on a form?
+A. The control with TabIndex = 1
+B. Any control with Enabled = true
+C. The control at the top left of the form
+D. The control with the focus
+Answer is D
+
+Question 3
+A menu option which has a character underlined can be accessed by
+A. CTRL + character key
+B. ALT + character key
+C. CTRL + ALT + character key
+D. F1 + character key
+Answer is B
+
+Question 4
+Which property can have a value of true or false?
+A. WordWrap
+B. TextAlign
+C. Interval
+D. Items
+Answer is A
+
+Question 5  
+Which control allows a user to select from a list?
+A. GroupBox
+B. TextBox
+C. ComboBox
+D. CheckBox
+Answer is C

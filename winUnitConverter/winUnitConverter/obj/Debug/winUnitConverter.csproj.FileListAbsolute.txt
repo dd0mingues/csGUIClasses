@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\bin\Debug\winUnitConverter.exe.config
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\bin\Debug\winUnitConverter.exe
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\bin\Debug\winUnitConverter.pdb
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.Form1.resources
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.exe
+C:\Users\Diogo\source\repos\winUnitConverter\winUnitConverter\obj\Debug\winUnitConverter.pdb

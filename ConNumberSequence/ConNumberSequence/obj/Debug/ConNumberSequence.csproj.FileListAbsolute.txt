@@ -1,0 +1,7 @@
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\bin\Debug\ConNumberSequence.exe.config
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\bin\Debug\ConNumberSequence.exe
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\bin\Debug\ConNumberSequence.pdb
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\obj\Debug\ConNumberSequence.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\obj\Debug\ConNumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\obj\Debug\ConNumberSequence.exe
+C:\Users\Diogo\source\repos\ConNumberSequence\ConNumberSequence\obj\Debug\ConNumberSequence.pdb

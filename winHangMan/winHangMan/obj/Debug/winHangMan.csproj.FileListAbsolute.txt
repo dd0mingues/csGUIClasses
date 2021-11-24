@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\bin\Debug\winHangMan.exe.config
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\bin\Debug\winHangMan.exe
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\bin\Debug\winHangMan.pdb
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.Form1.resources
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.exe
+C:\Users\Diogo\source\repos\winHangMan\winHangMan\obj\Debug\winHangMan.pdb

@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\bin\Debug\win7540-008.exe.config
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\bin\Debug\win7540-008.exe
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\bin\Debug\win7540-008.pdb
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540-008.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540_008.MainForm.resources
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540_008.Properties.Resources.resources
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540-008.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540-008.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540-008.exe
+C:\Users\Diogo\source\repos\win7540-008\win7540-008\obj\Debug\win7540-008.pdb

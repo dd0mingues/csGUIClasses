@@ -1,0 +1,10 @@
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\bin\Debug\winMCQuiz.exe.config
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\bin\Debug\winMCQuiz.exe
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\bin\Debug\winMCQuiz.pdb
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.csproj.AssemblyReference.cache
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.frmQuizz.resources
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.Properties.Resources.resources
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.csproj.GenerateResource.cache
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.exe
+C:\Users\Diogo\source\repos\winMCQuiz\winMCQuiz\obj\Debug\winMCQuiz.pdb
